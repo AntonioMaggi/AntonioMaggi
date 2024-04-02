@@ -5,7 +5,7 @@ Photo by <a href="https://unsplash.com/@clarktibbs?utm_content=creditCopyText&ut
 <h1 >:computer:My Tech Stack</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,js,ts,laravel,mongodb,mysql,nodejs,php" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,angular,js,ts,mongodb,mysql" />
   </a>
 </p>
 
