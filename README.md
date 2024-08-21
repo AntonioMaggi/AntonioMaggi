@@ -2,10 +2,10 @@
 Photo by <a href="https://unsplash.com/@clarktibbs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Clark Tibbs</a> on <a href="https://unsplash.com/photos/do-something-great-neon-sign-oqStl2L5oxI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 <div align="center">
-<h1 >:computer:My Tech Stack</h1>
+<h1 >:computer:My Technologies</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,angular,js,ts,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=angular,laravel,php,js,ts,mongodb,nodejs,mysql" />
   </a>
 </p>
 
